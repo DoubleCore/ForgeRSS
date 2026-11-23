@@ -5,7 +5,7 @@
 <link>https://developers.openai.com/codex</link>
 <description>OpenAI Codex coding agent documentation</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 04:36:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 05:35:22 +0000</lastBuildDate>
 <generator>ForgeRSS</generator>
 <atom:link href="https://developers.openai.com/codex" rel="self" type="application/rss+xml"/>
 <image>
@@ -17,7 +17,7 @@
   <title>Overview</title>
   <link>https://developers.openai.com/codex</link>
   <guid isPermaLink="false">https://developers.openai.com/codex</guid>
-  <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+  <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
   <category>Documentation</category>
   <description><![CDATA[<p style="color:#666;font-size:14px;margin-bottom:16px">Overview
 Start with a goal, idea, or task. ChatGPT can gather context, take action, and produce something useful.
@@ -71,12 +71,12 @@ Codey
 I found a tiny loose thread in settings. Want me to tug it?
 What’s new
 View all updates
+November 17, 2026
+GPT-6.2
+GPT-6.2 Astra and Sol launch in ChatGPT Work, Codex, and the API.
 November 9–13, 2026
 Set custom instructions for your dot
-Tell your dot how you’d like it to respond and work with you.
-November 2–6, 2026
-Reply to your dot from an iOS notification
-Reply to your dot from a notification or share a photo from another app on iOS.</div><hr style="margin:24px 0;border:none;border-top:1px solid #eee"/><p style="margin:12px 0 0"><a href="https://developers.openai.com/codex" style="color:#1890ff;text-decoration:none;font-size:14px">View Original &rarr;</a></p>]]></description>
+Tell your dot how you’d like it to respond and work with you.</div><hr style="margin:24px 0;border:none;border-top:1px solid #eee"/><p style="margin:12px 0 0"><a href="https://developers.openai.com/codex" style="color:#1890ff;text-decoration:none;font-size:14px">View Original &rarr;</a></p>]]></description>
   <content:encoded><![CDATA[<p style="color:#666;font-size:14px;margin-bottom:16px">Overview
 Start with a goal, idea, or task. ChatGPT can gather context, take action, and produce something useful.
 Quickstart
@@ -129,12 +129,12 @@ Codey
 I found a tiny loose thread in settings. Want me to tug it?
 What’s new
 View all updates
+November 17, 2026
+GPT-6.2
+GPT-6.2 Astra and Sol launch in ChatGPT Work, Codex, and the API.
 November 9–13, 2026
 Set custom instructions for your dot
-Tell your dot how you’d like it to respond and work with you.
-November 2–6, 2026
-Reply to your dot from an iOS notification
-Reply to your dot from a notification or share a photo from another app on iOS.</div><hr style="margin:24px 0;border:none;border-top:1px solid #eee"/><p style="margin:12px 0 0"><a href="https://developers.openai.com/codex" style="color:#1890ff;text-decoration:none;font-size:14px">View Original &rarr;</a></p>]]></content:encoded>
+Tell your dot how you’d like it to respond and work with you.</div><hr style="margin:24px 0;border:none;border-top:1px solid #eee"/><p style="margin:12px 0 0"><a href="https://developers.openai.com/codex" style="color:#1890ff;text-decoration:none;font-size:14px">View Original &rarr;</a></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
